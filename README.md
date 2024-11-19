@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jacob!
 ## Electronic Engineer | Aspiring Web Developer | Lifelong Learner
 
-### About Me
+### 🧑‍💻 About Me
 - 🌱 I’m currently learning **Express** and **Node.js**.
 - 🛠️ I enjoy crafting clean, responsive websites and improving user experiences.
 - 💻 Tools I Use:
