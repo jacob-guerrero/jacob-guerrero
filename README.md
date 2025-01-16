@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jacob!
-## Electronic Engineer | Aspiring Web Developer | Lifelong Learner
+## Electronic Engineer | Web Developer | Lifelong Learner
 
 ### 🧑‍💻 About Me
 - 🌱 I’m currently learning **Express** and **Node.js**.
@@ -7,7 +7,8 @@
 - 💻 Tools I Use:
   - **Programming Languages**: JavaScript, HTML5, CSS3
   - **Libraries & Frameworks**: React, Node.js, Express.js
-  - **Tools**: Git, VS Code, Figma, Postman
+  - **Databases**: Postgres, SQL
+  - **Tools**: Git, VS Code, Figma, Postman, DBeaver
 - 🌍 Languages: I speak **English** (professional) and **Spanish** (native).
 - 💡 Fun Fact: I started coding because I wanted to build my own cipher!
 
