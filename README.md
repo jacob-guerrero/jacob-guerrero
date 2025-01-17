@@ -2,7 +2,7 @@
 ## Electronic Engineer | Web Developer | Lifelong Learner
 
 ### 🧑‍💻 About Me
-- 🌱 I’m currently learning **Express** and **Node.js**.
+- 🌱 I’m currently learning **Prisma**.
 - 🛠️ I enjoy crafting clean, responsive websites and improving user experiences.
 - 💻 Tools I Use:
   - **Programming Languages**: JavaScript, HTML5, CSS3
